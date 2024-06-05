@@ -1,0 +1,20 @@
+.navbar a{
+    list-style-type: none;
+    text-decoration: none;
+    background-color: rgb(6, 1, 1);
+    padding: 0px;
+    margin: 0px;
+}
+.navbar a{
+color: rgb(109, 176, 240);   
+text-decoration: none;
+padding: 15px;
+display: block;
+text-align: left; 
+}
+.navbar a:hover{
+    background-color: rgb(207, 34, 15);
+}
+.navbar li{
+    float: left;
+}
